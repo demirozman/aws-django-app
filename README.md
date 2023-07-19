@@ -1,0 +1,2 @@
+# aws-django-app
+capstone
